@@ -8,6 +8,6 @@ public:
 			ind++;
 		}
 	}
-	return ind;
+ return ind;
 }
 };
